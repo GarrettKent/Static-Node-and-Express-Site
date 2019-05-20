@@ -1,0 +1,68 @@
+{
+
+    "projects": [
+      {
+              "id": "0",
+              "project_name": "Random Quote Generator",
+              "description": "For this project, a new quote will appear whenever the button is clicked",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://garrettkent.github.io/Techdegree-Project-1/",
+              "github_link": "https://github.com/GarrettKent/Techdegree-Project-1",
+              "image_urls":["/static/images/Proj1-main app.png","/static/images/Proj1 additional1.png", "/static/images/Proj1 additional2.png"]
+      },
+      {
+              "id": "1",
+              "project_name": "List Pagination and Filtering",
+              "description": "This project shows ten students per page. When a new page is clicked, ten different students appear.",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://garrettkent.github.io/Pagination-and-Filtering/",
+              "github_link": "https://github.com/GarrettKent/Pagination-and-Filtering",
+              "image_urls":["/static/images/Proj2-main app.png","/static/images/Proj2 additional1.png", "/static/images/Proj2 additional2.png"]
+      },
+      {
+              "id": "2",
+              "project_name": "Interactive Form",
+              "description": "This project accepts user input and shows error messages if the user entered something incorrectly.",
+              "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
+              "live_link": "https://garrettkent.github.io/Interactive-Form/",
+              "github_link": "https://github.com/GarrettKent/Interactive-Form",
+              "image_urls":["/static/images/Proj3-main app.png","/static/images/Proj3 additional1.png","/static/images/Proj3 additional2.png"]
+      },
+      {
+              "id": "3",
+              "project_name": "OOP Game Show App",
+              "description": "This is a word guessing game where you have five chances to guess the correct phrase to win. ",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://garrettkent.github.io/Object-Oriented-Game-App/",
+              "github_link": "https://github.com/GarrettKent/Object-Oriented-Game-App",
+              "image_urls":["/static/images/Proj4-main app.png","/static/images/Proj4 additional1.png","/static/images/Proj4 additional2.png"]
+      },
+      {
+              "id": "4",
+              "project_name": "Public API Request",
+              "description": "Here, using the 'https://randomuser.me' API, I show the information of employees of a company.",
+              "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
+              "live_link": "https://garrettkent.github.io/Public-API-Requests/",
+              "github_link": "https://github.com/GarrettKent/Public-API-Requests",
+              "image_urls":["/static/images/Proj5-main app.png","/static/images/Proj5- additional.png", "/static/images/Proj5- additional2.png"]
+      },
+      {
+        "id": "5",
+        "project_name": "REACT Scoreboard App",
+        "description": "Here, using the 'https://randomuser.me' API, I show the information of employees of a company.",
+        "technologies": ["HTML", "CSS", "JavaScript", "React"],
+        "github_link": "https://github.com/GarrettKent/React-Scoreboard",
+        "live_link": "https://inspiring-sinoussi-248b97.netlify.com/",
+        "image_urls":["/static/images/Proj7-main app.png","/static/images/Proj7 additional1.png", "/static/images/Proj7 additional2.png"]
+      },
+      {
+        "id": "6",
+        "project_name": "REACT Flickr Gallery App",
+        "description": "Using react.js, I created a gallery app use the use of a flickr API. In order for the live demo to work for you, an API key is needed.",
+        "technologies": ["HTML", "CSS", "JavaScript", "React", "API"],
+        "github_link": "https://github.com/GarrettKent/React-Gallery-App",
+        "live_link": "https://inspiring-sinoussi-248b97.netlify.com/",
+        "image_urls":["/static/images/Proj8-main app.png","/static/images/Proj8 additional1.png"]
+      }
+    ]
+}
